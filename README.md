@@ -7,7 +7,7 @@ This is a small Python-based project inspired by a short tutorial. I developed t
 **- Automated Calculation:** Uses the standard formula to provide an accurate BMI score.
 
 **- Health Status Classification:** Based on the calculated BMI, the system automatically categorizes the user into one of the following groups: Underweight, Normal Weight, Overweight, Obese, or Severely Obese.
-<img width="721" height="324" alt="{65D63A3E-E747-4D67-B44C-B482BC358540}" src="https://github.com/user-attachments/assets/ca1a76be-0a97-4f91-9144-361ae4b37376" />
+<img width="732" height="324" alt="{8C80671F-4E81-47FF-A369-A8760DAE4CF3}" src="https://github.com/user-attachments/assets/89dcca23-b5b1-479c-997d-522a47b28a6d" />
 
 # Technologies & Skills
 **- Language:**  Python
