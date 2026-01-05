@@ -10,6 +10,7 @@ This is a small Python-based project inspired by a short tutorial. I developed t
 
 # Technologies & Skills
 **- Language: **Python
+
 **- Programming Concepts:**
 
 **User Input:** Utilizing the input() function to interact with users.
