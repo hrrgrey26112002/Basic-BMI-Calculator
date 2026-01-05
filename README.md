@@ -9,7 +9,7 @@ This is a small Python-based project inspired by a short tutorial. I developed t
 **- Health Status Classification:** Based on the calculated BMI, the system automatically categorizes the user into one of the following groups: Underweight, Normal Weight, Overweight, Obese, or Severely Obese.
 
 # Technologies & Skills
-**- Language: **Python
+**- Language:**  Python
 
 **- Programming Concepts:**
 
